@@ -1,0 +1,40 @@
+ul.nav{
+  list-style: none;
+  padding-left: 50px;
+}
+
+ul.nav li{
+  font color: black;
+  display: inline; 
+  padding: 50px;
+  border: 50px solid aqua;
+  color: aqua;
+  background-color: aqua;
+  display: inline-block;
+  border-radius: 5px;
+
+}
+
+ a {
+
+ 	text-decoration: none; 
+ 	background-color: aqua;
+ 	color: black;
+ }
+
+ ul.nav li a:hover {
+
+ 	background-color: white;
+ }
+
+input {
+
+	background-color: white;
+}
+
+form {
+	margin left: 200px;
+	padding: 50px;
+	background-color: pink;
+	width: 25%;
+}
